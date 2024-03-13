@@ -23,7 +23,9 @@ section {
    
 }
 
-
+select {
+    margin-top: 10px;
+}
 
 footer {
     color: white;
